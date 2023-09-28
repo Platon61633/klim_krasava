@@ -1,3 +1,3 @@
 <?php
 header('Access-Control-Allow-Origin: *');
-echo 'fkfjhggcjhgv';
+echo 'klim_help';
